@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Learnwithkarthik/argocd-gitops-lab.git
+    repoURL: https://github.com/Mohanapriya-97/argocd-gitops-lab.git
     targetRevision: main
     path: apps/demo-nginx
   destination:
